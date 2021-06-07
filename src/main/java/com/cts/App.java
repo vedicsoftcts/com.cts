@@ -13,6 +13,8 @@ public class App
         else {
         		System.out.println(" a is not greater than b");
         }
+        int c=a+b;
+        System.out.println("a+b=" + c);
                 
     }
 }
